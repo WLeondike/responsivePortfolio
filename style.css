@@ -1,6 +1,21 @@
-/* body{
-    text-align: center;
-} */
+center{
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    padding: 85px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 
 .mediumaquamarine{
     color: mediumaquamarine;
