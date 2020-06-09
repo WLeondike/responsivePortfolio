@@ -31,15 +31,45 @@ footer{
   border-top: 5px solid mediumaquamarine;
 }
 
-.vl {
-  border-left: 0.5px solid aquamarine;
-
+.spacer{
+  margin-left: 65px;
+  margin-right: 65px;
 }
 
-@media screen and (max-width: 568px) {
+#vl {
+  border-left: 0.5px solid aquamarine;
+}
+
+.image { 
+  position: relative; 
+  width: 100%; /* for IE 6 */
+}
+
+h2 { 
+  position: absolute; 
+  top: 50px; 
+  left: 0; 
+  width: 100%; 
+}
+
+h2 span { 
+  color: white; 
+  font:12px; 
+  letter-spacing: -1px;  
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: .5px; 
+}
+
+h2 span.spacer {
+  padding:0 5px;
+}
+
+@media screen and (max-width: 1024px) {
   #container {
     padding: 10px;
-    margin: 40px;
+    margin-left: 60px;
+    margin-bottom: 60px;
   }
 
   .navbar{
