@@ -40,10 +40,65 @@ footer{
   border-left: 0.5px solid aquamarine;
 }
 
-.image { 
-  position: relative; 
-  width: 100%; /* for IE 6 */
+/* **************************************************************** */
+/* ******************Portfolio images with banner****************** */
+/* **************************************************************** */
+
+.banner{
+  position: absolute;
+  background-color: mediumaquamarine;
+  opacity: 0.8;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  text-align: center;
+  bottom: 20px;
+  width: 100%;
 }
+
+.img1 {
+  position:relative;
+  background-image: url("./Images/breakinghacks.png");
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+}
+
+.img2 {
+  position:relative;
+  background-image: url("./Images/data.png");
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+}
+
+.img3 {
+  position:relative;
+  background-image: url("./Images/purge.jpg");
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+}
+
+.img4 {
+  position:relative;
+  background-image: url("./Images/white-hacker.jpg");
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+}
+
+.img5 {
+  position:relative;
+  background-image: url("./Images/hacker.jpg");
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+}
+
+/* **************************************************************** */
+/* ************************** Media Qurey ************************* */
+/* **************************************************************** */
 
 @media screen and (max-width: 1024px) {
   #container {
