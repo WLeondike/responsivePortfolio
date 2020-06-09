@@ -41,7 +41,7 @@ footer{
 }
 
 /* **************************************************************** */
-/* ******************Portfolio images with banner****************** */
+/* ***************** Portfolio images with banner ***************** */
 /* **************************************************************** */
 
 .banner{
@@ -62,6 +62,8 @@ footer{
   background-repeat: no-repeat;
   width: 200px;
   height: 200px;
+  margin-right: 110px;
+  margin-left: 110px;
 }
 
 
@@ -69,7 +71,7 @@ footer{
 /* ************************** Media Qurey ************************* */
 /* **************************************************************** */
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   #container {
     padding: 10px;
     margin-left: 60px;
