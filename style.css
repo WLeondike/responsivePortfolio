@@ -45,9 +45,7 @@ footer{
   margin-right: 65px;
 }
 
-#vl {
-  border-left: 0.5px solid aquamarine;
-}
+
 
 /* **************************************************************** */
 /* ***************** Portfolio images with banner ***************** */
@@ -78,6 +76,11 @@ footer{
 /* **************************************************************** */
 /* ************************** Media Qurey ************************* */
 /* **************************************************************** */
+@media screen and (min-width: 768px){
+#vl {
+  border-left: 0.5px solid aquamarine;
+}
+}
 
 @media screen and (max-width: 480px) {
   #container {
