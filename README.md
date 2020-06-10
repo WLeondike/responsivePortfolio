@@ -12,11 +12,11 @@ They had us include a contact page where you can fill out information about yous
   <li>contact.html</li>
   </ul>
 
+We had to use some styling of our own, thus having a .css sheet to add a little of our own taste into our webpage.
+
 The website was created by using many of bootstraps features including their .css sheet. 
 
-I also added in bootstraps .js file in order to allow my drop down button to function properly in mobile view.
-
-We had to use some styling of our own, thus having a .css sheet to add a little of our own taste into our webpage. 
+I also added in bootstraps .js file in order to allow my drop down button to function properly in mobile view. 
 
 We had a strict layout to follow. They provided images for us to refrence when it came to that layout, otherwise this entire 
 project was created from scratch while using bootstraps many different tools. 
