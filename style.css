@@ -10,10 +10,9 @@ body {
     background-size: cover;
 }
 
-/* Header font */
+/* Header and Name font */
 #headerFont{
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
-  'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
 }
 
 /* Clearfix */
