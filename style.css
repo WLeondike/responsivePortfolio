@@ -71,8 +71,7 @@ footer{
   background-repeat: no-repeat;
   width: 200px;
   height: 200px;
-  margin-right: 110px;
-  margin-left: 110px;
+  margin: auto;
 }
 
 
@@ -80,19 +79,8 @@ footer{
 /* ************************** Media Qurey ************************* */
 /* **************************************************************** */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
   #container {
-    padding: 10px;
-    margin-left: 60px;
-    margin-bottom: 60px;
-  }
-
-  .navbar{
-    width:100%
-  }
-
-  .spacer{
-    margin-bottom: 17px;
-  }
-
+    margin: auto;
+}
 }
