@@ -12,7 +12,7 @@ They had us include a contact page where you can fill out information about yous
   <li>contact.html</li>
   </ul>
 
-We had to use some styling of our own, thus having a .css sheet to add a little of our own taste into our webpage.
+We had to use some styling of our own, thus having a .css sheet to add a little of our own taste into our web-page.
 
 The website was created by using many of bootstraps features including their .css sheet. 
 
@@ -23,5 +23,7 @@ project was created from scratch while using bootstraps many different tools.
 
 One of the more challenging things I had to overcome was trying to embed text with link overlays on top of an image for our 
 portfolio page. I probably spent the most time here but I had finally overcame it. 
+
+Link to my web-page: https://wleondike.github.io/responsivePortfolio/
 
 Hope you enjoy my webpage!
