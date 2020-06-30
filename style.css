@@ -47,6 +47,19 @@ footer{
 
 
 
+/* visited link */
+a {
+  color: sandybrown;
+}
+
+/* mouse over link */
+a:hover {
+  color: mediumaquamarine;
+}
+
+
+
+
 /* **************************************************************** */
 /* ***************** Portfolio images with banner ***************** */
 /* **************************************************************** */
