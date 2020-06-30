@@ -76,13 +76,34 @@ a:hover {
   width: 100%;
 }
 
-.img1 {
+.imgPH {
   position:relative;
-  background-image: url("./Images/200x200placeholder.png");
+  background-image: url("./Images/300x200placeHolder.png");
   background-repeat: no-repeat;
-  width: 200px;
+  width: 300px;
   height: 200px;
   margin: auto;
+  margin-bottom: 20px;
+}
+
+.img1 {
+  position:relative;
+  background-image: url("./Images/streamJunkie.png");
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.img2 {
+  position:relative;
+  background-image: url("./Images/dayPlanner.png");
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  margin-bottom: 20px;
 }
 
 
