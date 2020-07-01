@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-/* Background image for the page */
+/* background image for the page */
 body {
     background-image: url('./Assets/Images/beach.jpg');
     background-repeat: no-repeat;
@@ -10,19 +10,29 @@ body {
     background-size: cover;
 }
 
-/* Header and Name font */
+/* visited link */
+a {
+  color: sandybrown;
+}
+
+/* mouse over link */
+a:hover {
+  color: mediumaquamarine;
+}
+
+/* header and Name font */
 #headerFont{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
 }
 
-/* Clearfix */
+/* clearfix */
 .row::after {
     content: "";
     clear: both;
     display: table;
 }
 
-/* Expands nav bar across the whole screen */
+/* expands nav bar across the whole screen */
 .navbar{
   width:100%
 }
@@ -31,7 +41,7 @@ body {
     color: mediumaquamarine !important;
 }
 
-/* Sets dimensions for the footer on the page */
+/* sets dimensions for the footer on the page */
 footer{
   position: fixed;
   bottom: 0;
@@ -44,21 +54,6 @@ footer{
   margin-left: 65px;
   margin-right: 65px;
 }
-
-
-
-/* visited link */
-a {
-  color: sandybrown;
-}
-
-/* mouse over link */
-a:hover {
-  color: mediumaquamarine;
-}
-
-
-
 
 /* **************************************************************** */
 /* ***************** Portfolio images with banner ***************** */
