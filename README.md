@@ -1,29 +1,33 @@
 # My Responsive Portfolio
-This is my web portfolio that I'll update throughout the course.
 
-We had to create a webpage that has information about ourselves, as well as a portfolio that we can attach our projects onto. 
+Welcome to my responsive portfolio that I'll be updating throughout the course!
 
-They had us include a contact page where you can fill out information about youself, but it currently stays as a work in progress.
+This is a webpage that contains information about myself, a portfolio that I will be updating as I become more skilled at coding each day, and a contact page where the user can fill out information about themselves.
 
-### This webpage included three .html files
-  <ul>
-  <li>index.html (about me page)</li>
-  <li>portfolio.html</li>
-  <li>contact.html</li>
-  </ul>
+There will be links to my resume, LinkedIn, and GitHub pages in the portfolio page. Feel free to grab my email and/or phone number from the resume if you would like to contact me. 
 
-We had to use some styling of our own, thus having a .css sheet to add a little of our own taste into our web-page.
+Link to my deployed page: https://wleondike.github.io/responsivePortfolio/
 
-The website was created by using many of bootstraps features including their .css sheet. 
+## This webpage included three .html files
+- index.html (about page)
+- portfolio.html
+- contact.html
 
-I also added in bootstraps .js file in order to allow my drop down button to function properly in mobile view. 
+## The frameworks used in this project are:
+- Bootstrap
+- HTML
+- CSS
 
-We had a strict layout to follow. They provided images for us to refrence when it came to that layout, otherwise this entire 
-project was created from scratch while using bootstraps many different tools. 
+## Screenshots
 
-One of the more challenging things I had to overcome was trying to embed text with link overlays on top of an image for our 
-portfolio page. I probably spent the most time here but I had finally overcame it. 
+#### About:
 
-Link to my web-page: https://wleondike.github.io/responsivePortfolio/
+<img src ="./Assets/Images/aboutScreenshot.png" width="400">
 
-Hope you enjoy my webpage!
+#### Portfolio:
+
+<img src ="./Assets/Images/portfolioScreenshot.png" width="400">
+
+#### Contact:
+
+<img src ="./Assets/Images/contactScreenshot.png" width="400">
