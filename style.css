@@ -4,7 +4,7 @@
 
 /* Background image for the page */
 body {
-    background-image: url('./Images/beach.jpg');
+    background-image: url('./Assets/Images/beach.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -78,7 +78,7 @@ a:hover {
 
 .imgPH {
   position:relative;
-  background-image: url("./Images/300x200placeHolder.png");
+  background-image: url("./Assets/Images/300x200placeHolder.png");
   background-repeat: no-repeat;
   width: 300px;
   height: 200px;
@@ -88,7 +88,7 @@ a:hover {
 
 .img1 {
   position:relative;
-  background-image: url("./Images/streamJunkie.png");
+  background-image: url("./Assets/Images/streamJunkie.png");
   background-repeat: no-repeat;
   width: 300px;
   height: 200px;
@@ -98,7 +98,7 @@ a:hover {
 
 .img2 {
   position:relative;
-  background-image: url("./Images/dayPlanner.png");
+  background-image: url("./Assets/Images/dayPlanner.png");
   background-repeat: no-repeat;
   width: 300px;
   height: 200px;
