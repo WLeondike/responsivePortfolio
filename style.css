@@ -93,7 +93,7 @@ footer{
 
 .img2 {
   position:relative;
-  background-image: url("./Assets/Images/dayPlanner.png");
+  background-image: url("./Assets/Images/gitGudTogether.png");
   background-repeat: no-repeat;
   width: 300px;
   height: 200px;
@@ -104,6 +104,26 @@ footer{
 .img3 {
   position:relative;
   background-image: url("./Assets/Images/questionScreen.png");
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.img4 {
+  position:relative;
+  background-image: url("./Assets/Images/dayPlanner.png");
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.img5 {
+  position:relative;
+  background-image: url("./Assets/Images/burgerLogger.png");
   background-repeat: no-repeat;
   width: 300px;
   height: 200px;
